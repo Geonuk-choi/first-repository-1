@@ -1,6 +1,7 @@
 def add(x, y):
-    a = x + y
-    return a
+    b = x + y
+    return b
+
 
 def print_KIT():
     print("KIT")
